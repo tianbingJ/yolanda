@@ -32,7 +32,7 @@
 #include    <sys/un.h>        /* for Unix domain sockets */
 
 #include    <sys/select.h>    /* for convenience */
-#include    <sys/sysctl.h>
+//#include    <sys/sysctl.h>
 #include    <poll.h>        /* for convenience */
 #include    <strings.h>        /* for convenience */
 #include    <sys/ioctl.h>
